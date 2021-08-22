@@ -114,7 +114,7 @@ after i answer my riddle five, i got my Key (ajy39d2)
 
 - *![Riddle five](./Images/snap_5.PNG)*
 
-## Riddle 
+## Riddle 6
 
 My riddle six was little tracky, but i also used my abunto machine linex.
 i used this command: 
