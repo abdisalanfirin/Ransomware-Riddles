@@ -107,12 +107,17 @@ after i asnwer correctly i get my key (7gsn3nd2)
 ## Riddle 5
 
 My riddle five was little hard to solve. I used my abunto machine linex and i used this command:
- *hashcat -m 0 temp rockyou.txt*
+*echo 3b75cdd826a16f5bba0076690f644dc7 > riddle5.txt*
+*hashcat -m 0 -a 0 -o solved1.txt riddle5.txt /usr/share/wordlists/rockyou.txt --force*
 my riddle give me this hash to solve (3b75cdd826a16f5bba0076690f644dc7)
 after i decipher, i got my answer (argyle)
 after i answer my riddle five, i got my Key (ajy39d2)
 
 - *![Riddle five](./Images/snap_5.PNG)*
+
+- *![Riddle five](./Images/snap_8.PNG)*
+
+- *![Riddle five](./Images/snap_9.PNG)*
 
 ## Riddle 6
 
